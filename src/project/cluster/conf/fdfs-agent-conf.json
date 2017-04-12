@@ -1,0 +1,7 @@
+{
+    "log_path": "/usr/local/sandai/cluster/fdfs-agent/logs",
+    "listen_port": 3001,
+    "tracker_server": ["192.168.110.30:22122"],
+    "fdfs_min_connection_count": 1,
+    "fdfs_max_connection_count": 100
+}

@@ -1,0 +1,6 @@
+{
+    "log_path": "/usr/local/sandai/cluster/tair-agent/logs",
+    "listen_port": 3003,
+    "tair_client": "127.0.0.1:28080",
+    "tair_server": ["192.168.110.30:5198","192.168.110.120:5198"]
+}

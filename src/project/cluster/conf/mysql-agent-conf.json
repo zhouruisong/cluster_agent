@@ -1,0 +1,8 @@
+{
+    "log_path": "/usr/local/sandai/cluster/mysql-agent/logs",
+    "mysql_dsn": "root:123456@tcp(localhost:3306)/live_master",
+    "listen_port": 3002,
+    "server_Id": 1,
+    "dbconns": 200,
+    "dbidle": 100
+}

@@ -1,0 +1,7 @@
+{
+	"log_path": "/usr/local/sandai/cluster/cluster-centre/logs",
+	"listen_port": 3000,
+	"fdfs_agent": ["192.168.110.30:3001"],
+	"mysql_agent": ["192.168.110.30:3002"],
+	"tair_agent": ["192.168.110.30:3003"]
+}
